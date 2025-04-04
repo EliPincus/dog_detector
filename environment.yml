@@ -1,5 +1,0 @@
-name: voila-dog-breed-detector
-dependencies:
-  - fastbook
-  - fastai.vision.all
-  - fastai.vision.widgets
